@@ -13,4 +13,5 @@ Step 5. The game will display the 3x3 game board and prompt you to enter the row
 
 
 Note that the game will only accept valid moves within the range of 1 to 3 for both row and column.
-If you enter an invalid value, the program will display an error message and prompt you to enter a valid move. Also, the game will only accept one character (X or O) per player turn. Any other input will be considered invalid.
+If you enter an invalid value, the program will display an error message and prompt you to enter a valid move. 
+Also, the game will only accept one character (X or O) per player turn. Any other input will be considered invalid.
