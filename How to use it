@@ -1,5 +1,5 @@
-1. Open your C compiler or IDE and create a new file to write the code.
-2. Copy the code provided into your file and save it with a .c extension.
-3. Compile the code to make sure it has no errors.
-4. Run the program to start the game.
-5. The game will display the 3x3 game board and prompt you to enter the row and column for your mark.
+Step 1. Open your C compiler or IDE and create a new file to write the code.
+Step 2. Copy the code provided into your file and save it with a .c extension.
+Step 3. Compile the code to make sure it has no errors.
+Step 4. Run the program to start the game.
+Step 5. The game will display the 3x3 game board and prompt you to enter the row and column for your mark.
