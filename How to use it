@@ -9,7 +9,7 @@ Step 5. The game will display the 3x3 game board and prompt you to enter the row
 9. If a winner is found, the program will display a message announcing the winner and ask if you want to play again.
 10. If the game ends in a tie, the program will display a message announcing the tie and ask if you want to play again.
 11. If you choose to play again, the program will reset the game board and start over from step 5.
-12.	If you choose not to play again, the program will exit.
+12. If you choose not to play again, the program will exit.
 
 
 Note that the game will only accept valid moves within the range of 1 to 3 for both row and column. If you enter an invalid value, the program will display an error message and prompt you to enter a valid move. Also, the game will only accept one character (X or O) per player turn. Any other input will be considered invalid.
