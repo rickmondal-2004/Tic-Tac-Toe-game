@@ -8,3 +8,4 @@ Step 5. The game will display the 3x3 game board and prompt you to enter the row
 8.	The game will alternate between players until a winner is found or the game ends in a tie.
 9.	If a winner is found, the program will display a message announcing the winner and ask if you want to play again.
 10.	If the game ends in a tie, the program will display a message announcing the tie and ask if you want to play again.
+11.	If you choose to play again, the program will reset the game board and start over from step 5.
