@@ -5,7 +5,7 @@ Step 4. Run the program to start the game.
 Step 5. The game will display the 3x3 game board and prompt you to enter the row and column for your mark.
 Step 6. Enter a valid row and column number (1 to 3) where you want to place your mark (X or O).
 Step 7. The program will validate your move and either place your mark on the board or display an error message.
-8. The game will alternate between players until a winner is found or the game ends in a tie.
+Step 8. The game will alternate between players until a winner is found or the game ends in a tie.
 9. If a winner is found, the program will display a message announcing the winner and ask if you want to play again.
 10. If the game ends in a tie, the program will display a message announcing the tie and ask if you want to play again.
 11. If you choose to play again, the program will reset the game board and start over from step 5.
